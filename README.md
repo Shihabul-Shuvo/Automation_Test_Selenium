@@ -13,7 +13,6 @@ This project is an automated test suite for the web application at `https://the-
 - Dropdown
 - File Download
 - File Upload
-- Forgot Password
 - Horizontal Slider
 - Hovers
 - Key Presses
@@ -37,7 +36,6 @@ E-commerce_Selenium/
 │   ├── dropdown_page.py        # Page object for Dropdown
 │   ├── file_download_page.py   # Page object for File Download
 │   ├── file_upload_page.py     # Page object for File Upload
-│   ├── forgot_password_page.py # Page object for Forgot Password
 │   ├── horizontal_slider_page.py # Page object for Horizontal Slider
 │   ├── hovers_page.py          # Page object for Hovers
 │   ├── key_presses_page.py     # Page object for Key Presses
@@ -56,7 +54,6 @@ E-commerce_Selenium/
 │   ├── test_dropdown.py        # Tests for Dropdown
 │   ├── test_file_download.py   # Tests for File Download
 │   ├── test_file_upload.py     # Tests for File Upload
-│   ├── test_forgot_password.py # Tests for Forgot Password
 │   ├── test_horizontal_slider.py # Tests for Horizontal Slider
 │   ├── test_hovers.py          # Tests for Hovers
 │   ├── test_key_presses.py     # Tests for Key Presses

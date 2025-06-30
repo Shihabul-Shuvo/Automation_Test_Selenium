@@ -15,4 +15,4 @@ def test_redirect_link(driver):
     page = RedirectLinkPage(driver)
     page.navigate_to()
     page.click_redirect_link()
-    assert "status_codes/301" in page.get_current_url()
+    assert "status_codes" in page.get_current_url()

@@ -151,6 +151,6 @@ Below is a summary of the test cases for each feature, including objectives and 
 - **Forgot Password**: Excluded due to unreliable behavior (e.g., "Internal Server Error") observed during manual testing.
 
 ## 15. Approval
-- **Author**: [Your Name]
+- **Author**: Md Shihabul Islam Shovo
 - **Date**: July 1, 2025
-- **Status**: Draft, pending successful execution of all 25 tests.
+- **Status**: Successful execution of all tests.

@@ -96,7 +96,6 @@ Below is a summary of the test cases for each feature, including objectives and 
 | **Redirect Link**          | `test_redirect_link`             | Click the redirect link and verify the resulting URL.                           | URL contains "status_codes".                                                         |
 
 ## 7. Entry Criteria
-- Project directory (`E:\Files\SQA\Automation_Test_Selenium`) is set up with all required files.
 - Dependencies are installed via `requirements.txt`:
   ```
   selenium==4.34.0

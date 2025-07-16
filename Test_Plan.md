@@ -46,7 +46,6 @@ The test suite covers the following 16 features:
   - pytest-html: For HTML report generation
   - pytest-xdist: For parallel test execution
 - **Test Site**: `https://the-internet.herokuapp.com`
-- **Project Directory**: `E:\Files\SQA\Automation_Test_Selenium`
 
 ## 5. Test Strategy
 ### 5.1 Approach
